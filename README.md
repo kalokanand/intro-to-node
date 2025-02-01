@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intro to Node
 
 This project is a beginner's guide to learning Node.js. It includes examples of how to integrate Node.js with HTML and JavaScript.
@@ -22,3 +23,6 @@ To run this project, you need to have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/kalokanand/intro-to-node.git
+=======
+# intro-to-node
+>>>>>>> de1eed944994cb2b62f9ddaf6a945577dd0c37e8

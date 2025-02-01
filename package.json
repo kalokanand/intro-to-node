@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-node",
+  "version": "20.15.1",
+  "description": "simple web App",
+  "main": "myNodeServerShowPages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalokanand/intro-to-node.git"
+  },
+  "author": "KUMAR ALOK ANAND",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalokanand/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/kalokanand/intro-to-node#readme"
+}
